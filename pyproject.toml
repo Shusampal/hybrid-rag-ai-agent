@@ -1,0 +1,12 @@
+[project]
+name = "10-day-12"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "groq>=1.7.0",
+    "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.2.0",
+]
